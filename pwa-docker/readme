@@ -1,1 +1,2 @@
-
+#The pwa_images.tar.gz is tar file containing the docker images.
+#To run docker images, you can download this tar file and load the images using docker load command 
